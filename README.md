@@ -20,3 +20,50 @@ The application uses multiple Machine Learning algorithms, compares their perfor
 - Machine Learning-based prediction
 - High prediction accuracy
 - Fast and reliable decision making
+
+---
+
+## 🤖 Machine Learning Algorithms
+
+The project implements and evaluates multiple Machine Learning algorithms for loan approval prediction.
+
+| Algorithm | Description |
+|-----------|-------------|
+| Decision Tree | Tree-based classification algorithm |
+| Random Forest | Ensemble learning algorithm |
+| K-Nearest Neighbors (KNN) | Distance-based classification |
+| XGBoost | Gradient Boosting algorithm |
+
+### Best Performing Model
+
+**XGBoost**
+
+- Training Accuracy: **94.7%**
+- Testing Accuracy: **81.1%**
+
+---
+
+## 🛠️ Technology Stack
+
+### Programming Language
+- Python
+
+### Web Framework
+- Flask
+
+### Machine Learning Libraries
+- Scikit-learn
+- XGBoost
+- Pandas
+- NumPy
+
+### Visualization
+- Matplotlib
+- Seaborn
+
+### Development Tools
+- Jupyter Notebook
+- Visual Studio Code
+
+### Cloud Platform
+- IBM Cloud
