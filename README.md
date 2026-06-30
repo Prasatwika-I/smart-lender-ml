@@ -67,3 +67,77 @@ The project implements and evaluates multiple Machine Learning algorithms for lo
 
 ### Cloud Platform
 - IBM Cloud
+
+---
+
+## 📂 Repository Structure
+
+```text
+smart-lender-ml/
+│
+├── 📁 1. Brainstorming & Ideation
+├── 📁 2. Requirement Analysis
+├── 📁 3. Project Design Phase
+├── 📁 4. Project Planning Phase
+├── 📁 5. Project Development Phase
+├── 📁 6. Project Testing
+├── 📁 7. Project Documentation
+├── 📁 8. Project Demonstration
+│
+├── 📄 README.md
+└── 📄 .gitignore
+```
+
+---
+
+## ⚙️ Installation
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/Prasatwika-I/smart-lender-ml.git
+```
+
+### Navigate to the Project
+
+```bash
+cd smart-lender-ml
+```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run the Application
+
+```bash
+python app.py
+```
+
+---
+
+## ▶️ Usage
+
+1. Launch the Flask application.
+2. Enter the applicant's details.
+3. Click the **Predict** button.
+4. View the loan approval prediction result.
+
+---
+
+## 🚀 Future Enhancements
+
+- Deep Learning-based prediction
+- Explainable AI (XAI)
+- Banking API Integration
+- Cloud Deployment
+- Mobile Application
+- Real-time Loan Processing
+
+---
+
+## 📄 License
+
+This project was developed for academic purposes as a Final Year Major Project.
